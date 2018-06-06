@@ -1,5 +1,5 @@
 === Post-tags-validation ===
-Contributors: Alexandr Kharchenko
+Contributors: Alexander Kharchenko
 Tags: Tags required validation, Post, Page.
 Requires at least: 3.5.1
 Tested up to: 4.7
